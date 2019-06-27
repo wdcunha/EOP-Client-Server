@@ -1,0 +1,8 @@
+
+Fsquid:S1148+"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8Óº°’ -
+V
+squid:S1067"9Replace this use of System.out or System.err by a logger.(ûðý¸8ö—ïùŸ-
+Vsquid:S1197L"8Move the array designator from the variable to the type.(åŽñâ8‚òå¾Ÿ-
+[
+squid:S106D"9Replace this use of System.out or System.err by a logger.(¸ŒÁ¯ýÿÿÿÿ8šÑ±’ -
+qsquid:UselessImportCheck	"GRemove this unused import 'java.util.concurrent.ConcurrentLinkedQueue'.(°½Âh8ÕÆ°ùŸ-

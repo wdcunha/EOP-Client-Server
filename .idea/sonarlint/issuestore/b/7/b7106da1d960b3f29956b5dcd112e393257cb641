@@ -1,0 +1,19 @@
+
+Ksquid:S1604z"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ8™ÍéŸ-
+qsquid:MaximumInheritanceDepth	"<This class has 6 parents which is greater than 5 authorized.(µ¿Ç—øÿÿÿÿ8ë„Áê-
+vsquid:S1450‚"WRemove the "jButton1" field and declare it as a local variable in the relevant methods.(å……¶8™ÍéŸ-
+isquid:CommentedOutCodeLine."<This block of commented-out lines of code should be removed.(¹ÙÊñ8†©®ëŸ-
+isquid:CommentedOutCodeLine0"<This block of commented-out lines of code should be removed.(á·À‘8†©®ëŸ-
+Msquid:S1172T"*Remove this unused method parameter "evt".(‘ òôøÿÿÿÿ8÷¡óêŸ-
+`squid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8ğ¿úêŸ-
+_squid:UselessImportCheck"4Remove this unused import 'java.util.logging.Level'.(…µÛ¶8ğ¿úêŸ-
+nsquid:CommentedOutCodeLine3"<This block of commented-out lines of code should be removed.(Ë¨çàúÿÿÿÿ8†©®ëŸ-
+csquid:S2147q"ECombine this catch with the one at line 111, which has the same body.(¨¦Š½8™ÍéŸ-
+nsquid:CommentedOutCodeLine7"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8†©®ëŸ-
+csquid:S2147s"ECombine this catch with the one at line 111, which has the same body.(ã€ 8™ÍéŸ-
+isquid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(¹‹É¢8†©®ëŸ-
+`squid:UselessImportCheck"5Remove this unused import 'java.util.logging.Logger'.(ƒ¥óš8ğ¿úêŸ-
+bsquid:S2147u"ECombine this catch with the one at line 111, which has the same body.(ñÎ¯%8™ÍéŸ-
+Ksquid:S1604&"(Make this anonymous inner class a lambda(…æ©âÿÿÿÿÿ8ãëêŸ-
+squid:S1450ƒ"[Remove the "jScrollPane1" field and declare it as a local variable in the relevant methods.(¤á×ÿÿÿÿÿ8™ÍéŸ-
+[squid:S1197f"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8™ÍéŸ-

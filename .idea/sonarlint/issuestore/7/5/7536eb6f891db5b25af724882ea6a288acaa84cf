@@ -1,0 +1,24 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(´€ÿ8Ö–£“Ÿ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(›¬ úÿÿÿÿ8Ôáµì-
+V
+squid:S106."9Replace this use of System.out or System.err by a logger.(ÒèÃä8ò§ß“Ÿ-
+1squid:S1220""Move this file to a named package.
+Vsquid:S1197"8Move the array designator from the variable to the type.(åñâ8ïµ´ì-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¯™üºúÿÿÿÿ8Ç¨˜“Ÿ-
+rsquid:S00100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÚ»¿üÿÿÿÿ8»­“Ÿ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÚíêÈ8¶©’“Ÿ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(éœ†Ôûÿÿÿÿ8üÅª“Ÿ-
+V
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(˜ÄÎ¸8ïµ´ì-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÑæÊ¢úÿÿÿÿ8ï©´“Ÿ-
+}squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‘Ìí8üÅª“Ÿ-
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(¼u8üÅª“Ÿ-
